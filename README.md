@@ -1,5 +1,5 @@
 # Garbage Detection Based on Convolutional Neural Network
-Final project for an application of machine learning and deep learning course (ITC C508). The code has been made available as a reference if anyone would like to reproduce the results of this project.
+Project for an application of machine learning and deep learning course (ITC C508). The code has been made available as a reference if anyone would like to reproduce the results of this project.
 
 Recycling trash is a crucial part of protecting our environment. Garbage must be divided into categories with similar recycling processes in order to enable the recycling process. The percentage of recycled waste can rise considerably if it is possible to separate domestic trash into several categories. Using the classes given, we trained the model in this notebook to categorize the input images and output the trash classification.
 
